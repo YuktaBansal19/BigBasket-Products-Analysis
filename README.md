@@ -1,4 +1,4 @@
-# 🛒 BigBasket Product Data Analysis (2025)
+# 🛒 BigBasket Product Data Analysis
 
 A complete exploratory data analysis (EDA) project on 27,555 products from BigBasket.
 
